@@ -1,0 +1,24 @@
+# do Yasamin_2022510013_Group31_ALU.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Yasamin_2022510013_Group31_ALU
+# 
+# Top level modules:
+# 	Yasamin_2022510013_Group31_ALU
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Yasamin_2022510013_Group31_ALU_vlg_sample_tst
+# -- Compiling module Yasamin_2022510013_Group31_ALU_vlg_check_tst
+# -- Compiling module Yasamin_2022510013_Group31_ALU_vlg_vec_tst
+# 
+# Top level modules:
+# 	Yasamin_2022510013_Group31_ALU_vlg_vec_tst
+# vsim -L cycloneiii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.Yasamin_2022510013_Group31_ALU_vlg_vec_tst 
+# Loading work.Yasamin_2022510013_Group31_ALU_vlg_vec_tst
+# Loading work.Yasamin_2022510013_Group31_ALU
+# Loading cycloneiii_ver.cycloneiii_lcell_comb
+# Loading cycloneiii_ver.cycloneiii_io_ibuf
+# Loading cycloneiii_ver.cycloneiii_io_obuf
+# Loading work.Yasamin_2022510013_Group31_ALU_vlg_sample_tst
+# Loading work.Yasamin_2022510013_Group31_ALU_vlg_check_tst
+# Simulation passed !
+# ** Note: $finish    : Yasamin_2022510013_Group31_ALU.vt(232)
+#    Time: 1 us  Iteration: 0  Instance: /Yasamin_2022510013_Group31_ALU_vlg_vec_tst/tb_out

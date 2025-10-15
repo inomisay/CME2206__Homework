@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\Projects\ALU\simulation\qsim
+vYasamin_2022510013_Group31_ALU
+Z1 I^jURXP8^VBK0m>SfJCM6b1
+Z2 Vmc`9RUL[91M[5jck0f63W1
+Z3 dC:\altera\13.0sp1\Projects\ALU\simulation\qsim
+Z4 w1715347489
+Z5 8Yasamin_2022510013_Group31_ALU.vo
+Z6 FYasamin_2022510013_Group31_ALU.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@yasamin_2022510013_@group31_@a@l@u
+!i10b 1
+Z10 !s100 VkCIHFzI4jgb71lKV9Yo90
+!s85 0
+Z11 !s108 1715347490.988000
+Z12 !s107 Yasamin_2022510013_Group31_ALU.vo|
+Z13 !s90 -work|work|Yasamin_2022510013_Group31_ALU.vo|
+!s101 -O0
+vYasamin_2022510013_Group31_ALU_vlg_check_tst
+!i10b 1
+!s100 og<>^>KN=?=SbQz?>gXKh3
+IbM;I`]CYQh5M`WDOVC9JU3
+V@DOQV@4Ji1C;WM74EVfS62
+R3
+Z14 w1715347488
+Z15 8Yasamin_2022510013_Group31_ALU.vt
+Z16 FYasamin_2022510013_Group31_ALU.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z17 !s108 1715347491.065000
+Z18 !s107 Yasamin_2022510013_Group31_ALU.vt|
+Z19 !s90 -work|work|Yasamin_2022510013_Group31_ALU.vt|
+!s101 -O0
+R8
+n@yasamin_2022510013_@group31_@a@l@u_vlg_check_tst
+vYasamin_2022510013_Group31_ALU_vlg_sample_tst
+!i10b 1
+!s100 ZUn5f2hHi`5e;I>g27CCz0
+I0jlS^MQ_>?5eL;3Al9c2Y0
+VYO0Q0gWe4]8z`;728cNkT2
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@yasamin_2022510013_@group31_@a@l@u_vlg_sample_tst
+vYasamin_2022510013_Group31_ALU_vlg_vec_tst
+!i10b 1
+!s100 ^i5e>obUUf9FD5^dk;hVz2
+IoJCTPkRaTcJR=jKzaMcdU1
+VUdEFJM^03=AKN7EceK:Fa2
+R3
+R14
+R15
+R16
+L0 236
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@yasamin_2022510013_@group31_@a@l@u_vlg_vec_tst

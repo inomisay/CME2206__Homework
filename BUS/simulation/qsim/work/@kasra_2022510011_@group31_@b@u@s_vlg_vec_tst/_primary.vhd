@@ -1,0 +1,4 @@
+library verilog;
+use verilog.vl_types.all;
+entity Kasra_2022510011_Group31_BUS_vlg_vec_tst is
+end Kasra_2022510011_Group31_BUS_vlg_vec_tst;

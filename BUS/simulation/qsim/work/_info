@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\Projects\BUS\simulation\qsim
+vKasra_2022510011_Group31_BUS
+Z1 !s100 LWcDYoDVLG[WEzL7a[S4B1
+Z2 In5=>oGP3SK<A=UJJ4^ojQ2
+Z3 VU760Ybo3a]R07Bj3EaZG[2
+Z4 dC:\altera\13.0sp1\Projects\BUS\simulation\qsim
+Z5 w1715790563
+Z6 8Kasra_2022510011_Group31_BUS.vo
+Z7 FKasra_2022510011_Group31_BUS.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Kasra_2022510011_Group31_BUS.vo|
+Z10 o-work work -O0
+Z11 n@kasra_2022510011_@group31_@b@u@s
+!i10b 1
+!s85 0
+Z12 !s108 1715790564.235000
+Z13 !s107 Kasra_2022510011_Group31_BUS.vo|
+!s101 -O0
+vKasra_2022510011_Group31_BUS_vlg_check_tst
+!i10b 1
+Z14 !s100 f9gK9K^WTBW9kEz<ZcbN40
+Z15 IgmI2HD0V=o=fVeIQDnP9=1
+Z16 VEXO:1VaEkeRfR^;SjJ^cd0
+R4
+Z17 w1715790562
+Z18 8Kasra_2022510011_Group31_BUS.vt
+Z19 FKasra_2022510011_Group31_BUS.vt
+L0 73
+R8
+r1
+!s85 0
+31
+Z20 !s108 1715790564.356000
+Z21 !s107 Kasra_2022510011_Group31_BUS.vt|
+Z22 !s90 -work|work|Kasra_2022510011_Group31_BUS.vt|
+!s101 -O0
+R10
+Z23 n@kasra_2022510011_@group31_@b@u@s_vlg_check_tst
+vKasra_2022510011_Group31_BUS_vlg_sample_tst
+!i10b 1
+Z24 !s100 z>aojV<mQf]`ZBfb1j?Fe3
+Z25 I7m??QEg4@]@THL^lY5VGA3
+Z26 VSaPI1S2aZX04E?FmM:@zF1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@kasra_2022510011_@group31_@b@u@s_vlg_sample_tst
+vKasra_2022510011_Group31_BUS_vlg_vec_tst
+!i10b 1
+Z28 !s100 3hY`CmCKb;EX;5]Qem^[J3
+Z29 I]QHMjj5[]_5SM3YhIIH@`0
+Z30 V`4@Y3@ADeJHK>TXzh0?XT0
+R4
+R17
+R18
+R19
+Z31 L0 1576
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@kasra_2022510011_@group31_@b@u@s_vlg_vec_tst

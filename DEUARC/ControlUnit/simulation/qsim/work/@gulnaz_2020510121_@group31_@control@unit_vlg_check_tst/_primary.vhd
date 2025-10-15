@@ -1,0 +1,45 @@
+library verilog;
+use verilog.vl_types.all;
+entity Gulnaz_2020510121_Group31_ControlUnit_vlg_check_tst is
+    port(
+        ALU_out         : in     vl_logic_vector(3 downto 0);
+        ALU_Overflow    : in     vl_logic;
+        AR_Q            : in     vl_logic_vector(3 downto 0);
+        \BUS\           : in     vl_logic_vector(3 downto 0);
+        D0              : in     vl_logic;
+        D1              : in     vl_logic;
+        D2              : in     vl_logic;
+        D3              : in     vl_logic;
+        D4              : in     vl_logic;
+        D5              : in     vl_logic;
+        D6              : in     vl_logic;
+        D7              : in     vl_logic;
+        D8              : in     vl_logic;
+        D9              : in     vl_logic;
+        D10             : in     vl_logic;
+        D11             : in     vl_logic;
+        D12             : in     vl_logic;
+        D13             : in     vl_logic;
+        D14             : in     vl_logic;
+        D15             : in     vl_logic;
+        DataMemory      : in     vl_logic_vector(3 downto 0);
+        Input_Q         : in     vl_logic_vector(3 downto 0);
+        InstructionMemory: in     vl_logic_vector(10 downto 0);
+        IR_Q            : in     vl_logic_vector(10 downto 0);
+        Output_Q        : in     vl_logic_vector(3 downto 0);
+        over_flow       : in     vl_logic;
+        PC_Q            : in     vl_logic_vector(4 downto 0);
+        R0_Q            : in     vl_logic_vector(3 downto 0);
+        R1_Q            : in     vl_logic_vector(3 downto 0);
+        R2_Q            : in     vl_logic_vector(3 downto 0);
+        SCOUT           : in     vl_logic_vector(2 downto 0);
+        SP_Q            : in     vl_logic_vector(3 downto 0);
+        StackMemory     : in     vl_logic_vector(4 downto 0);
+        T0              : in     vl_logic;
+        T1              : in     vl_logic;
+        T2              : in     vl_logic;
+        T3              : in     vl_logic;
+        T4              : in     vl_logic;
+        sampler_rx      : in     vl_logic
+    );
+end Gulnaz_2020510121_Group31_ControlUnit_vlg_check_tst;

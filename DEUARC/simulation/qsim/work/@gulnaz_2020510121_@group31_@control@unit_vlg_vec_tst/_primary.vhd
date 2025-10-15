@@ -1,0 +1,4 @@
+library verilog;
+use verilog.vl_types.all;
+entity Gulnaz_2020510121_Group31_ControlUnit_vlg_vec_tst is
+end Gulnaz_2020510121_Group31_ControlUnit_vlg_vec_tst;

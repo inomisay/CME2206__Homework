@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed May 15 19:26:00 2024
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Kasra_2022510011_Group31_BUS
+Top-level Entity Name : Kasra_2022510011_Group31_BUS
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total logic elements : 110 / 15,408 ( < 1 % )
+    Total combinational functions : 90 / 15,408 ( < 1 % )
+    Dedicated logic registers : 40 / 15,408 ( < 1 % )
+Total registers : 40
+Total pins : 98 / 347 ( 28 % )
+Total virtual pins : 0
+Total memory bits : 426 / 516,096 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

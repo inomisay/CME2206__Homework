@@ -1,0 +1,4 @@
+library verilog;
+use verilog.vl_types.all;
+entity Yasamin_2022510013_Group31_ALU_vlg_vec_tst is
+end Yasamin_2022510013_Group31_ALU_vlg_vec_tst;

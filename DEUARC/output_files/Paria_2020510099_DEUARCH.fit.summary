@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue May 21 18:35:26 2024
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Paria_2020510099_DEUARCH
+Top-level Entity Name : Gulnaz_2020510121_Group31_ControlUnit
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total logic elements : 195 / 15,408 ( 1 % )
+    Total combinational functions : 191 / 15,408 ( 1 % )
+    Dedicated logic registers : 48 / 15,408 ( < 1 % )
+Total registers : 48
+Total pins : 104 / 347 ( 30 % )
+Total virtual pins : 0
+Total memory bits : 496 / 516,096 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

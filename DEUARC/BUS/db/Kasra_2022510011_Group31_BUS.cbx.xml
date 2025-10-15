@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Kasra_2022510011_Group31_BUS">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|InputRegister:inst111|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|InstructionMemory_ROM:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_j1b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Register3:inst8|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|StackData:inst5546|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_d6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|RL_ShiftUnit:inst7|H0:inst2|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|RL_ShiftUnit:inst7|H3:inst7|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Register_EN:inst19|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|Increment:inst4|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_pni.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|S1:inst2|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|RL_ShiftUnit:inst7|H1:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|AR_PC_SP_IR_EN:inst22|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|DataMemory_RAM:inst23|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_efi1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Memory_EN:inst17|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_5af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|OutputRegister:inst9|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|ProgramCounter:inst12|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_qqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Register1:inst5|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|SM:inst83|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_7sh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|StackPointer:inst112|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|OVERFLOW:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_j6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|AddressRegister:inst10|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Bus_Selection:inst18|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_k6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|S2:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|StackMemory_RAM:inst11|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lvf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|InstructionRegister:inst15|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_jdj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Register2:inst6|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|Adder:inst5|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_5ki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|ALU_Op:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_m6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Kasra_2022510011_Group31_BUS|Yasamin_2022510013_Group31_ALU:inst24|RL_ShiftUnit:inst7|H2:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

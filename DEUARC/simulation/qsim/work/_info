@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\Projects\ControlUnit\simulation\qsim
+vGulnaz_2020510121_Group31_ControlUnit
+Z1 !s100 UoQ]6c?D@PJ7YaR[GQd?F0
+Z2 Im[Rjz0D`N:>9gIGi`iNY?1
+Z3 VmBkOIaZJQQ2_GVQDQlTf;0
+Z4 dC:\altera\13.0sp1\Projects\Group Projects\DEUARC\simulation\qsim
+Z5 w1716211452
+Z6 8Gulnaz_2020510121_Group31_ControlUnit.vo
+Z7 FGulnaz_2020510121_Group31_ControlUnit.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Gulnaz_2020510121_Group31_ControlUnit.vo|
+Z10 o-work work -O0
+Z11 n@gulnaz_2020510121_@group31_@control@unit
+!i10b 1
+!s85 0
+Z12 !s108 1716211453.406000
+Z13 !s107 Gulnaz_2020510121_Group31_ControlUnit.vo|
+!s101 -O0
+vGulnaz_2020510121_Group31_ControlUnit_vlg_check_tst
+!i10b 1
+Z14 !s100 Gdzl94^nb]6BDhI_dFf6l2
+Z15 IAKZ6de@PgneFRZ2^T3J6D0
+Z16 VE1l6@MXWE2oNT>_Wh0>Ua0
+R4
+Z17 w1716211451
+Z18 8Gulnaz_2020510121_Group31_ControlUnit.vt
+Z19 FGulnaz_2020510121_Group31_ControlUnit.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1716211453.545000
+Z21 !s107 Gulnaz_2020510121_Group31_ControlUnit.vt|
+Z22 !s90 -work|work|Gulnaz_2020510121_Group31_ControlUnit.vt|
+!s101 -O0
+R10
+Z23 n@gulnaz_2020510121_@group31_@control@unit_vlg_check_tst
+vGulnaz_2020510121_Group31_ControlUnit_vlg_sample_tst
+!i10b 1
+Z24 !s100 QLBJS0NzBNGd<TRdV`OjX3
+Z25 I;X`HPUC]=V>0>0XLZ]Rz]0
+Z26 V6>DYLdO3C6DN]2BUJYWA20
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@gulnaz_2020510121_@group31_@control@unit_vlg_sample_tst
+vGulnaz_2020510121_Group31_ControlUnit_vlg_vec_tst
+!i10b 1
+!s100 39UJLPKm0BM2_Z4do@8T@3
+IWhcbBf:U?jS375IMVllB_0
+Z28 V5kT]D>0YW>c4jU?5J=VZ93
+R4
+R17
+R18
+R19
+Z29 L0 2220
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@gulnaz_2020510121_@group31_@control@unit_vlg_vec_tst

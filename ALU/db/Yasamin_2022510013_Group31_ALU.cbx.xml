@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Yasamin_2022510013_Group31_ALU">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|ALU_Op:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_m6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|RL_ShiftUnit:inst7|H0:inst2|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|RL_ShiftUnit:inst7|H1:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|RL_ShiftUnit:inst7|H2:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|RL_ShiftUnit:inst7|H3:inst7|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|Adder:inst5|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_5ki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|Increment:inst4|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_pni.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Yasamin_2022510013_Group31_ALU|OVERFLOW:inst3|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_j6e.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

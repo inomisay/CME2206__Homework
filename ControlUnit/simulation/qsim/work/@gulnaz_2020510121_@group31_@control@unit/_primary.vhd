@@ -1,0 +1,47 @@
+library verilog;
+use verilog.vl_types.all;
+entity Gulnaz_2020510121_Group31_ControlUnit is
+    port(
+        ALU_Overflow    : out    vl_logic;
+        IR_Q            : out    vl_logic_vector(10 downto 0);
+        T1              : out    vl_logic;
+        T4              : out    vl_logic;
+        D8              : out    vl_logic;
+        D14             : out    vl_logic;
+        D13             : out    vl_logic;
+        D9              : out    vl_logic;
+        D10             : out    vl_logic;
+        D15             : out    vl_logic;
+        D5              : out    vl_logic;
+        D6              : out    vl_logic;
+        D4              : out    vl_logic;
+        D2              : out    vl_logic;
+        D3              : out    vl_logic;
+        D1              : out    vl_logic;
+        D0              : out    vl_logic;
+        D12             : out    vl_logic;
+        D11             : out    vl_logic;
+        T3              : out    vl_logic;
+        Register_CLK    : in     vl_logic;
+        InstructionMemory: out    vl_logic_vector(10 downto 0);
+        T0              : out    vl_logic;
+        Memory_CLK      : in     vl_logic;
+        PC_Q            : out    vl_logic_vector(4 downto 0);
+        over_flow       : out    vl_logic;
+        StackMemory     : out    vl_logic_vector(4 downto 0);
+        SP_Q            : out    vl_logic_vector(3 downto 0);
+        R0_Q            : out    vl_logic_vector(3 downto 0);
+        \BUS\           : out    vl_logic_vector(3 downto 0);
+        ALU_out         : out    vl_logic_vector(3 downto 0);
+        R1_Q            : out    vl_logic_vector(3 downto 0);
+        R2_Q            : out    vl_logic_vector(3 downto 0);
+        Input           : in     vl_logic_vector(3 downto 0);
+        DataMemory      : out    vl_logic_vector(3 downto 0);
+        AR_Q            : out    vl_logic_vector(3 downto 0);
+        Input_Q         : out    vl_logic_vector(3 downto 0);
+        D7              : out    vl_logic;
+        T2              : out    vl_logic;
+        Output_Q        : out    vl_logic_vector(3 downto 0);
+        SCOUT           : out    vl_logic_vector(2 downto 0)
+    );
+end Gulnaz_2020510121_Group31_ControlUnit;
